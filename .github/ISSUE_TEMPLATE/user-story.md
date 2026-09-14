@@ -1,9 +1,9 @@
 ---
 name: 'User Stores '
 about: 'used for creating user storys '
-title: ''
-labels: ''
-assignees: ''
+title: '' Give a title
+labels: '' Give a Label
+assignees: '' assigne story 
 
 ---
 
